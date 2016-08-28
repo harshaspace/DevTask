@@ -1,0 +1,470 @@
+2016-08-23 23:27:01 INFO  SocketListner:33 - *********************************************
+2016-08-23 23:27:01 INFO  SocketListner:34 - **********	Server is up & running	**********
+2016-08-23 23:27:01 INFO  SocketListner:35 - *********************************************
+2016-08-23 23:46:04 INFO  SocketListner:33 - *********************************************
+2016-08-23 23:46:04 INFO  SocketListner:34 - **********	Server is up & running	**********
+2016-08-23 23:46:04 INFO  SocketListner:35 - *********************************************
+2016-08-23 23:47:59 INFO  SocketListner:33 - *********************************************
+2016-08-23 23:47:59 INFO  SocketListner:34 - **********	Server is up & running	**********
+2016-08-23 23:47:59 INFO  SocketListner:35 - *********************************************
+2016-08-23 23:48:38 ERROR SocketListner:29 - Could not listen on port :: 9876
+2016-08-23 23:51:39 INFO  SocketListner:33 - *********************************************
+2016-08-23 23:51:39 INFO  SocketListner:34 - **********	Server is up & running	**********
+2016-08-23 23:51:39 INFO  SocketListner:35 - *********************************************
+2016-08-24 23:08:38 INFO  PropertyUtilitySingleton:37 - ::: PropertyUtilitySingleton initiated :::
+2016-08-24 23:08:38 INFO  SocketListner:30 - **************************************
+2016-08-24 23:08:38 INFO  SocketListner:31 - ******	SERVER IS UP & RUNNING	*******
+2016-08-24 23:08:38 INFO  SocketListner:32 - **************************************
+2016-08-24 23:09:30 INFO  PropertyUtilitySingleton:37 - ::: PropertyUtilitySingleton initiated :::
+2016-08-24 23:55:38 INFO  PropertyUtilitySingleton:37 - ::: PropertyUtilitySingleton initiated :::
+2016-08-24 23:55:38 INFO  SocketListner:30 - *********************************************
+2016-08-24 23:55:38 INFO  SocketListner:31 - *********	SERVER IS UP & RUNNING	**********
+2016-08-24 23:55:38 INFO  SocketListner:32 - *********************************************
+2016-08-24 23:55:58 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:55:58 INFO  ClientWorker:31 - {
+  "requestId" : "4",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [4]",
+  "messageText" : "Test Text 3"
+}
+2016-08-24 23:55:58 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:55:58 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:55:58 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:55:58 INFO  ClientWorker:31 - {
+  "requestId" : "5",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [5]",
+  "messageText" : "Test Text 4"
+}
+2016-08-24 23:55:58 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:55:58 INFO  ClientWorker:31 - {
+  "requestId" : "2",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [2]",
+  "messageText" : "Test Text 1"
+}
+2016-08-24 23:55:58 INFO  ClientWorker:31 - {
+  "requestId" : "1",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [1]",
+  "messageText" : "Test Text 0"
+}
+2016-08-24 23:55:58 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:55:58 INFO  ClientWorker:31 - {
+  "requestId" : "3",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [3]",
+  "messageText" : "Test Text 2"
+}
+2016-08-24 23:55:58 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:55:58 INFO  ClientWorker:31 - {
+  "requestId" : "7",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [7]",
+  "messageText" : "Test Text 6"
+}
+2016-08-24 23:55:58 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:55:58 INFO  ClientWorker:31 - {
+  "requestId" : "8",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [8]",
+  "messageText" : "Test Text 7"
+}
+2016-08-24 23:55:58 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:55:58 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:55:58 INFO  ClientWorker:31 - {
+  "requestId" : "9",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [9]",
+  "messageText" : "Test Text 8"
+}
+2016-08-24 23:55:58 INFO  ClientWorker:31 - {
+  "requestId" : "6",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [6]",
+  "messageText" : "Test Text 5"
+}
+2016-08-24 23:55:58 INFO  ClientWorker:31 - {
+  "requestId" : "10",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [10]",
+  "messageText" : "Test Text 9"
+}
+2016-08-24 23:58:16 INFO  PropertyUtilitySingleton:37 - ::: PropertyUtilitySingleton initiated :::
+2016-08-24 23:58:16 INFO  SocketListner:30 - *********************************************
+2016-08-24 23:58:16 INFO  SocketListner:31 - *********	SERVER IS UP & RUNNING	**********
+2016-08-24 23:58:16 INFO  SocketListner:32 - *********************************************
+2016-08-24 23:58:30 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:58:30 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:58:30 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:58:30 INFO  ClientWorker:31 - {
+  "requestId" : "5",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [5]",
+  "messageText" : "Test Text 5"
+}
+2016-08-24 23:58:30 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:58:30 INFO  ClientWorker:31 - {
+  "requestId" : "1",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [1]",
+  "messageText" : "Test Text 1"
+}
+2016-08-24 23:58:30 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:58:30 INFO  ClientWorker:31 - {
+  "requestId" : "3",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [3]",
+  "messageText" : "Test Text 3"
+}
+2016-08-24 23:58:30 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:58:30 INFO  ClientWorker:31 - {
+  "requestId" : "4",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [4]",
+  "messageText" : "Test Text 4"
+}
+2016-08-24 23:58:30 INFO  ClientWorker:31 - {
+  "requestId" : "2",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [2]",
+  "messageText" : "Test Text 2"
+}
+2016-08-24 23:58:30 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:58:30 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:58:30 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:58:30 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-24 23:58:30 INFO  ClientWorker:31 - {
+  "requestId" : "7",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [7]",
+  "messageText" : "Test Text 7"
+}
+2016-08-24 23:58:30 INFO  ClientWorker:31 - {
+  "requestId" : "9",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [9]",
+  "messageText" : "Test Text 9"
+}
+2016-08-24 23:58:30 INFO  ClientWorker:31 - {
+  "requestId" : "8",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [8]",
+  "messageText" : "Test Text 8"
+}
+2016-08-24 23:58:30 INFO  ClientWorker:31 - {
+  "requestId" : "10",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [10]",
+  "messageText" : "Test Text 10"
+}
+2016-08-24 23:58:30 INFO  ClientWorker:31 - {
+  "requestId" : "6",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [6]",
+  "messageText" : "Test Text 6"
+}
+2016-08-25 00:04:57 INFO  PropertyUtilitySingleton:37 - ::: PropertyUtilitySingleton initiated :::
+2016-08-25 00:04:57 INFO  SocketListner:30 - *********************************************
+2016-08-25 00:04:57 INFO  SocketListner:31 - *********	SERVER IS UP & RUNNING	**********
+2016-08-25 00:04:57 INFO  SocketListner:32 - *********************************************
+2016-08-25 00:05:07 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-25 00:05:07 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-25 00:05:07 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-25 00:05:07 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-25 00:05:07 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-25 00:05:07 INFO  ClientWorker:31 - {
+  "requestId" : "5",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [5]",
+  "messageText" : "Test Text 5"
+}
+2016-08-25 00:05:07 INFO  ClientWorker:31 - {
+  "requestId" : "3",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [3]",
+  "messageText" : "Test Text 3"
+}
+2016-08-25 00:05:07 INFO  ClientWorker:31 - {
+  "requestId" : "1",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [1]",
+  "messageText" : "Test Text 1"
+}
+2016-08-25 00:05:07 INFO  ClientWorker:31 - {
+  "requestId" : "2",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [2]",
+  "messageText" : "Test Text 2"
+}
+2016-08-25 00:05:07 INFO  ClientWorker:31 - {
+  "requestId" : "4",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [4]",
+  "messageText" : "Test Text 4"
+}
+2016-08-25 00:05:07 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-25 00:05:07 INFO  ClientWorker:31 - {
+  "requestId" : "7",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [7]",
+  "messageText" : "Test Text 7"
+}
+2016-08-25 00:05:07 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-25 00:05:07 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-25 00:05:07 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-25 00:05:07 INFO  ClientWorker:26 - Accepted Client ; Address - localhost
+2016-08-25 00:05:07 INFO  ClientWorker:31 - {
+  "requestId" : "10",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [10]",
+  "messageText" : "Test Text 10"
+}
+2016-08-25 00:05:07 INFO  ClientWorker:31 - {
+  "requestId" : "8",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [8]",
+  "messageText" : "Test Text 8"
+}
+2016-08-25 00:05:07 INFO  ClientWorker:31 - {
+  "requestId" : "9",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [9]",
+  "messageText" : "Test Text 9"
+}
+2016-08-25 00:05:07 INFO  ClientWorker:31 - {
+  "requestId" : "6",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [6]",
+  "messageText" : "Test Text 6"
+}
+2016-08-25 20:16:54 INFO  MailSender:37 - ******* Going to send the mail ******* 
+2016-08-25 20:17:24 INFO  MailSender:37 - ******* Going to send the mail ******* 
+2016-08-25 20:19:27 INFO  MailSender:37 - ******* Going to send the mail ******* 
+2016-08-25 20:22:57 INFO  MailSender:37 - ******* Going to send the mail ******* 
+2016-08-25 20:24:09 INFO  MailSender:37 - ******* Going to send the mail ******* 
+2016-08-25 21:23:14 INFO  PropertyUtilitySingleton:37 - ::: PropertyUtilitySingleton initiated :::
+2016-08-25 21:23:14 INFO  SocketListner:30 - *********************************************
+2016-08-25 21:23:14 INFO  SocketListner:31 - *********	SERVER IS UP & RUNNING	**********
+2016-08-25 21:23:14 INFO  SocketListner:32 - *********************************************
+2016-08-25 21:23:33 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:23:33 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:23:33 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:23:33 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:23:33 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:23:33 DEBUG ClientWorker:36 - {
+  "requestId" : "4",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [4]",
+  "messageText" : "Test Text 4"
+}
+2016-08-25 21:23:33 DEBUG ClientWorker:36 - {
+  "requestId" : "3",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [3]",
+  "messageText" : "Test Text 3"
+}
+2016-08-25 21:23:33 DEBUG ClientWorker:36 - {
+  "requestId" : "5",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [5]",
+  "messageText" : "Test Text 5"
+}
+2016-08-25 21:23:33 DEBUG ClientWorker:36 - {
+  "requestId" : "2",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [2]",
+  "messageText" : "Test Text 2"
+}
+2016-08-25 21:23:33 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:23:33 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:23:33 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:23:33 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:23:33 DEBUG ClientWorker:36 - {
+  "requestId" : "1",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [1]",
+  "messageText" : "Test Text 1"
+}
+2016-08-25 21:23:33 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:23:39 INFO  MailSender:80 - :::: Email sent successfully :::
+2016-08-25 21:23:39 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:23:39 DEBUG ClientWorker:36 - {
+  "requestId" : "6",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [6]",
+  "messageText" : "Test Text 6"
+}
+2016-08-25 21:23:39 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:23:39 INFO  MailSender:80 - :::: Email sent successfully :::
+2016-08-25 21:23:39 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:23:39 DEBUG ClientWorker:36 - {
+  "requestId" : "7",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [7]",
+  "messageText" : "Test Text 7"
+}
+2016-08-25 21:23:39 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:23:40 INFO  MailSender:80 - :::: Email sent successfully :::
+2016-08-25 21:23:40 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:23:40 DEBUG ClientWorker:36 - {
+  "requestId" : "8",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [8]",
+  "messageText" : "Test Text 8"
+}
+2016-08-25 21:23:40 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:23:40 INFO  MailSender:80 - :::: Email sent successfully :::
+2016-08-25 21:23:40 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:23:40 DEBUG ClientWorker:36 - {
+  "requestId" : "9",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [9]",
+  "messageText" : "Test Text 9"
+}
+2016-08-25 21:23:40 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:23:41 INFO  MailSender:80 - :::: Email sent successfully :::
+2016-08-25 21:23:41 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:23:41 DEBUG ClientWorker:36 - {
+  "requestId" : "10",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [10]",
+  "messageText" : "Test Text 10"
+}
+2016-08-25 21:23:41 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:23:44 INFO  MailSender:80 - :::: Email sent successfully :::
+2016-08-25 21:23:44 INFO  MailSender:80 - :::: Email sent successfully :::
+2016-08-25 21:23:45 INFO  MailSender:80 - :::: Email sent successfully :::
+2016-08-25 21:23:45 INFO  MailSender:80 - :::: Email sent successfully :::
+2016-08-25 21:23:46 INFO  MailSender:80 - :::: Email sent successfully :::
+2016-08-25 21:30:58 INFO  PropertyUtilitySingleton:37 - ::: PropertyUtilitySingleton initiated :::
+2016-08-25 21:30:58 INFO  SocketListner:30 - *********************************************
+2016-08-25 21:30:58 INFO  SocketListner:31 - *********	SERVER IS UP & RUNNING	**********
+2016-08-25 21:30:58 INFO  SocketListner:32 - *********************************************
+2016-08-25 21:31:13 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:31:13 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:31:13 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:31:13 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:31:13 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:31:13 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:31:13 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:31:13 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:31:13 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:31:13 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:31:19 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:31:19 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:31:19 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:31:19 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:31:20 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:31:20 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:31:20 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:31:20 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-25 21:31:21 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-25 21:31:21 INFO  MailSender:38 - ******* Going to send the mail ******* 
+2016-08-28 16:26:10 INFO  PropertyUtilitySingleton:37 - ::: PropertyUtilitySingleton initiated :::
+2016-08-28 16:26:10 INFO  SocketListner:30 - *********************************************
+2016-08-28 16:26:10 INFO  SocketListner:31 - *********	SERVER IS UP & RUNNING	**********
+2016-08-28 16:26:10 INFO  SocketListner:32 - *********************************************
+2016-08-28 16:26:19 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:26:19 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:26:19 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:26:19 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:26:19 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:26:25 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:26:25 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:26:26 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:26:26 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:26:26 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:28:57 INFO  PropertyUtilitySingleton:37 - ::: PropertyUtilitySingleton initiated :::
+2016-08-28 16:28:57 INFO  SocketListner:30 - *********************************************
+2016-08-28 16:28:57 INFO  SocketListner:31 - *********	SERVER IS UP & RUNNING	**********
+2016-08-28 16:28:57 INFO  SocketListner:32 - *********************************************
+2016-08-28 16:29:07 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:29:07 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:29:07 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:29:13 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 16:29:13 INFO  ClientWorker:30 - Accepted Client ; Address - localhost
+2016-08-28 17:01:34 INFO  PropertyUtilitySingleton:37 - ::: PropertyUtilitySingleton initiated :::
+2016-08-28 17:01:34 INFO  SocketListner:31 - *********************************************
+2016-08-28 17:01:34 INFO  SocketListner:32 - *********	SERVER IS UP & RUNNING	**********
+2016-08-28 17:01:34 INFO  SocketListner:33 - *********************************************
+2016-08-28 17:02:12 INFO  ClientWorker:36 - Accepted Client ; Address - localhost
+2016-08-28 17:02:12 INFO  ClientWorker:36 - Accepted Client ; Address - localhost
+2016-08-28 17:02:12 INFO  ClientWorker:36 - Accepted Client ; Address - localhost
+2016-08-28 17:02:12 DEBUG ClientWorker:45 - {
+  "requestId" : "cfffb190-2cb8-4992-8807-713203e8b8cc",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [cfffb190-2cb8-4992-8807-713203e8b8cc]",
+  "messageText" : "Test Text cfffb190-2cb8-4992-8807-713203e8b8cc"
+}
+2016-08-28 17:02:12 DEBUG ClientWorker:45 - {
+  "requestId" : "05afb2a7-34a9-49dd-ac96-3ac947db8bd4",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [05afb2a7-34a9-49dd-ac96-3ac947db8bd4]",
+  "messageText" : "Test Text 05afb2a7-34a9-49dd-ac96-3ac947db8bd4"
+}
+2016-08-28 17:02:12 DEBUG ClientWorker:45 - {
+  "requestId" : "3be09371-1519-4c8f-94e6-397d053fa9d6",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [3be09371-1519-4c8f-94e6-397d053fa9d6]",
+  "messageText" : "Test Text 3be09371-1519-4c8f-94e6-397d053fa9d6"
+}
+2016-08-28 17:02:13 INFO  ClientWorker:36 - Accepted Client ; Address - localhost
+2016-08-28 17:02:13 INFO  ClientWorker:36 - Accepted Client ; Address - localhost
+2016-08-28 17:02:13 DEBUG ClientWorker:45 - {
+  "requestId" : "82c9b491-3d6e-47a9-8e7d-9a9c218d9fe6",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [82c9b491-3d6e-47a9-8e7d-9a9c218d9fe6]",
+  "messageText" : "Test Text 82c9b491-3d6e-47a9-8e7d-9a9c218d9fe6"
+}
+2016-08-28 17:02:13 DEBUG ClientWorker:45 - {
+  "requestId" : "7319b8d1-899e-4254-b64d-2e1b0a557774",
+  "senderName" : "TestName",
+  "recipientEmail" : "harsha.hapuarachchi@gmail.com",
+  "subject" : "Test Subject [7319b8d1-899e-4254-b64d-2e1b0a557774]",
+  "messageText" : "Test Text 7319b8d1-899e-4254-b64d-2e1b0a557774"
+}
